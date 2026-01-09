@@ -100,7 +100,7 @@ nav .menu a {
 
 #about {
 padding-top: 130px;
-margin: 120px;
+margin: 0 auto;
    
 }
 .card-container div {
@@ -198,4 +198,35 @@ margin-bottom: 10px;
 .special {
     text-align: center;
     margin: 24px 543px 16px;
+}
+
+#footer {
+    background-color:#001931;
+    width: 1920px;
+    height: auto;
+    display: flex;
+    
+   
+}
+
+.f-logo {
+     margin: 125px 1000px 187px 183px;
+   
+}
+.s-link {
+    color: #FFFFFF;
+    font-size: 20px;
+    position: middle;
+    margin-top: 125px;
+}
+
+.s-link p {
+    color: #FFFFFF;
+    margin: 0 auto;
+}
+.site-footer{
+    background-color: #001931;
+    color: #FFFFFF;
+    text-align: center;
+    
 }
