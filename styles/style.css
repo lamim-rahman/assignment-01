@@ -56,10 +56,10 @@ nav .menu a {
     padding: 12px 16px;
     font-style: semi-bold;
     cursor: pointer;
- 
+    background-image: url(../B13-A01-Knowledge-Vault/assets/ArrowRight.png) no-repeat;
+}
 
-  
-}#banner {
+#banner {
     margin: 70px 120px 134px ;
     
    
@@ -168,4 +168,34 @@ margin-bottom: 10px;
   margin-bottom: 12px;
   font-size: 16px;
 }
+#challange {
+    margin: 0px 120px 120px 120px;
+}
 
+.text-container {
+    padding: 80px 40px;
+    background-color: #F7F6F2;
+}
+
+.text h3{
+    font-size: 40px;
+    font-weight: 700;
+    margin: 80px 40px 0;
+    line-height: 48px;
+    text-align: center;
+  
+ 
+}
+
+.text p {
+    margin-top: 16px;
+    font-weight: 400;
+    text-align: center;
+    color: #627382;
+    
+}
+
+.special {
+    text-align: center;
+    margin: 24px 543px 16px;
+}
